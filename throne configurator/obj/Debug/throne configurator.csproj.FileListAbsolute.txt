@@ -1,0 +1,10 @@
+c:\users\the unforgiven\documents\visual studio 2013\Projects\throne configurator\throne configurator\bin\Debug\throne configurator.exe.config
+c:\users\the unforgiven\Desktop\throne\Throne-master\Build\throne configurator.exe.config
+c:\users\the unforgiven\Desktop\throne\Throne-master\Build\throne configurator.exe
+c:\users\the unforgiven\Desktop\throne\Throne-master\Build\throne configurator.pdb
+c:\users\the unforgiven\documents\visual studio 2013\Projects\throne configurator\throne configurator\obj\Debug\throne configurator.csprojResolveAssemblyReference.cache
+c:\users\the unforgiven\documents\visual studio 2013\Projects\throne configurator\throne configurator\obj\Debug\throne_configurator.Form1.resources
+c:\users\the unforgiven\documents\visual studio 2013\Projects\throne configurator\throne configurator\obj\Debug\throne_configurator.Properties.Resources.resources
+c:\users\the unforgiven\documents\visual studio 2013\Projects\throne configurator\throne configurator\obj\Debug\throne configurator.csproj.GenerateResource.Cache
+c:\users\the unforgiven\documents\visual studio 2013\Projects\throne configurator\throne configurator\obj\Debug\throne configurator.exe
+c:\users\the unforgiven\documents\visual studio 2013\Projects\throne configurator\throne configurator\obj\Debug\throne configurator.pdb
